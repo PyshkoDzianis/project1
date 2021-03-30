@@ -1,3 +1,4 @@
+
 package by.grodno.denis.model.task;
 
 public class ReoccurredTask extends TaskBase {

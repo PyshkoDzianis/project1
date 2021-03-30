@@ -1,4 +1,3 @@
-
 package by.grodno.denis.app;
 
 import by.grodno.denis.model.task.Category;
